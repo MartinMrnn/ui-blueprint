@@ -1,0 +1,7 @@
+# Reference boards: frames from third-party sites, owned by their studios, never published
+references/boards/
+
+# Real registry: it names clients (the published template is registry.example.md)
+registry.md
+
+.DS_Store
